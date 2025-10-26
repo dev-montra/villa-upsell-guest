@@ -1,1 +1,1 @@
-web: echo "Static site served by static buildpack"
+node server.js
