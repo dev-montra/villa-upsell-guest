@@ -39,7 +39,7 @@ export const GuestCheckInForm: React.FC = () => {
     {
       enabled: !!accessToken,
       retry: false,
-      onError: (error: any) => {
+      onError: () => {
         // Property validation error
       },
     }
