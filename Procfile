@@ -1,0 +1,1 @@
+web: echo "Static site served by static buildpack"
